@@ -1,0 +1,17 @@
+# List of ignored file and folder/
+
+# Mac file
+.DS_Store
+
+# JetBrain IDE config
+.idea
+
+# parcel
+.parcel-cache
+dist
+
+# nodes modules
+node_modules/
+
+# yarn
+yarn-error.log
